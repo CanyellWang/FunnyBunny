@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="machine-learning:war">
+    <output-path>$PROJECT_DIR$/../MachineLearning/target</output-path>
+    <root id="archive" name="machine-learning.war">
+      <element id="artifact" artifact-name="machine-learning:war exploded" />
+    </root>
+  </artifact>
+</component>
